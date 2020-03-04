@@ -1,0 +1,24 @@
+id  id     ruolo                 nome     cognome     film
+901	101	John Scottie Ferguson	James	Stewart	M	Vertigo	1958	128	English	1958-08-24	UK
+902	102	Miss Giddens	Deborah	Kerr	F	The Innocents	1961	100	English	1962-02-19	SW
+903	103	T.E. Lawrence	Peter	OToole	M	Lawrence of Arabia	1962	216	English	1962-12-11	UK
+904	104	Michael	Robert	De Niro	M	The Deer Hunter	1978	183	English	1979-03-08	UK
+905	105	Antonio Salieri	F. Murray	Abraham	M	Amadeus	1984	160	English	1985-01-07	UK
+906	106	Rick Deckard	Harrison	Ford	M	Blade Runner	1982	117	English	1982-09-09	UK
+907	107	Alice Harford	Nicole	Kidman	F	Eyes Wide Shut	1999	159	English		UK
+908	108	McManus	Stephen	Baldwin	M	The Usual Suspects	1995	106	English	1995-08-25	UK
+910	110	Eddie Adams	Mark	Wahlberg	M	Boogie Nights	1997	155	English	1998-02-16	UK
+911	111	Alvy Singer	Woody	Allen	M	Annie Hall	1977	93	English	1977-04-20	USA
+912	112	San	Claire	Danes	F	Princess Mononoke	1997	134	Japanese	2001-10-19	UK
+913	113	Andy Dufresne	Tim	Robbins	M	The Shawshank Redemption	1994	142	English	1995-02-17	UK
+914	114	Lester Burnham	Kevin	Spacey	M	American Beauty	1999	122	English		UK
+915	115	Rose DeWitt Bukater	Kate	Winslet	F	Titanic	1997	194	English	1998-01-23	UK
+916	116	Sean Maguire	Robin	Williams	M	Good Will Hunting	1997	126	English	1998-06-03	UK
+917	117	Ed	Jon	Voight	M	Deliverance	1972	109	English	1982-10-05	UK
+918	118	Renton	Ewan	McGregor	M	Trainspotting	1996	94	English	1996-02-23	UK
+920	120	Elizabeth Darko	Maggie	Gyllenhaal	F	Donnie Darko	2001	113	English		UK
+921	121	Older Jamal	Dev	Patel	M	Slumdog Millionaire	2008	120	English	2009-01-09	UK
+922	122	Ripley	Sigourney	Weaver	F	Aliens	1986	137	English	1986-08-29	UK
+923	114	Bobby Darin	Kevin	Spacey	M	Beyond the Sea	2004	118	English	2004-11-26	UK
+909	109	J.J. Gittes	Jack	Nicholson	M	Chinatown	1974	130	English	1974-08-09	UK
+919	119	Alfred Borden	Christian	Bale	M	The Prestige	2006	130	English	2006-11-10	UK

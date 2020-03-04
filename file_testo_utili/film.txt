@@ -1,0 +1,23 @@
+201	901	Vertigo	1958	128	English	1958-08-24	UK	Alfred	Hitchcock
+202	902	The Innocents	1961	100	English	1962-02-19	SW	Jack	Clayton
+203	903	Lawrence of Arabia	1962	216	English	1962-12-11	UK	David	Lean
+204	904	The Deer Hunter	1978	183	English	1979-03-08	UK	Michael	Cimino
+205	905	Amadeus	1984	160	English	1985-01-07	UK	Milos	Forman
+206	906	Blade Runner	1982	117	English	1982-09-09	UK	Ridley	Scott
+207	907	Eyes Wide Shut	1999	159	English		UK	Stanley	Kubrick
+208	908	The Usual Suspects	1995	106	English	1995-08-25	UK	Bryan	Singer
+209	909	Chinatown	1974	130	English	1974-08-09	UK	Roman	Polanski
+210	910	Boogie Nights	1997	155	English	1998-02-16	UK	Paul	Thomas Anderson
+211	911	Annie Hall	1977	93	English	1977-04-20	USA	Woody	Allen
+212	912	Princess Mononoke	1997	134	Japanese	2001-10-19	UK	Hayao	Miyazaki
+213	913	The Shawshank Redemption	1994	142	English	1995-02-17	UK	Frank	Darabont
+214	914	American Beauty	1999	122	English		UK	Sam	Mendes
+215	915	Titanic	1997	194	English	1998-01-23	UK	James	Cameron
+216	916	Good Will Hunting	1997	126	English	1998-06-03	UK	Gus	Van Sant
+217	917	Deliverance	1972	109	English	1982-10-05	UK	John	Boorman
+218	918	Trainspotting	1996	94	English	1996-02-23	UK	Danny	Boyle
+219	919	The Prestige	2006	130	English	2006-11-10	UK	Christopher	Nolan
+220	920	Donnie Darko	2001	113	English		UK	Richard	Kelly
+218	921	Slumdog Millionaire	2008	120	English	2009-01-09	UK	Danny	Boyle
+215	922	Aliens	1986	137	English	1986-08-29	UK	James	Cameron
+221	923	Beyond the Sea	2004	118	English	2004-11-26	UK	Kevin	Spacey

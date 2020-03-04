@@ -1,0 +1,849 @@
+UPDATE FILM
+SET annoprod = 2014
+WHERE idfilm = 79;
+UPDATE FILM
+SET annoprod = 1977
+WHERE idfilm = 82;
+UPDATE FILM
+SET annoprod = 1987
+WHERE idfilm = 85;
+UPDATE FILM
+SET annoprod = 1987
+WHERE idfilm = 86;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 89;
+UPDATE FILM
+SET annoprod = 2002
+WHERE idfilm = 90;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 92;
+UPDATE FILM
+SET annoprod = 2010
+WHERE idfilm = 95;
+UPDATE FILM
+SET annoprod = 1975
+WHERE idfilm = 104;
+UPDATE FILM
+SET annoprod = 2018
+WHERE idfilm = 105;
+UPDATE FILM
+SET annoprod = 2012
+WHERE idfilm = 115;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 119;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 124;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 127;
+UPDATE FILM
+SET annoprod = 1998
+WHERE idfilm = 131;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 133;
+UPDATE FILM
+SET annoprod = 2015
+WHERE idfilm = 134;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 145;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 146;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 150;
+UPDATE FILM
+SET annoprod = 1998
+WHERE idfilm = 163;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 166;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 169;
+UPDATE FILM
+SET annoprod = 2010
+WHERE idfilm = 174;
+UPDATE FILM
+SET annoprod = 2001
+WHERE idfilm = 178;
+UPDATE FILM
+SET annoprod = 2007
+WHERE idfilm = 184;
+UPDATE FILM
+SET annoprod = 2008
+WHERE idfilm = 193;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 194;
+UPDATE FILM
+SET annoprod = 2006
+WHERE idfilm = 201;
+UPDATE FILM
+SET annoprod = 2013
+WHERE idfilm = 205;
+UPDATE FILM
+SET annoprod = 1998
+WHERE idfilm = 210;
+UPDATE FILM
+SET annoprod = 2012
+WHERE idfilm = 212;
+UPDATE FILM
+SET annoprod = 2012
+WHERE idfilm = 213;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 214;
+UPDATE FILM
+SET annoprod = 2017
+WHERE idfilm = 216;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 223;
+UPDATE FILM
+SET annoprod = 2012
+WHERE idfilm = 224;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 230;
+UPDATE FILM
+SET annoprod = 1980
+WHERE idfilm = 235;
+UPDATE FILM
+SET annoprod = 1994
+WHERE idfilm = 237;
+UPDATE FILM
+SET annoprod = 2012
+WHERE idfilm = 243;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 247;
+UPDATE FILM
+SET annoprod = 2003
+WHERE idfilm = 249;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 252;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 254;
+UPDATE FILM
+SET annoprod = 2014
+WHERE idfilm = 258;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 259;
+UPDATE FILM
+SET annoprod = 1999
+WHERE idfilm = 262;
+UPDATE FILM
+SET annoprod = 1999
+WHERE idfilm = 268;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 271;
+UPDATE FILM
+SET annoprod = 2019
+WHERE idfilm = 275;
+UPDATE FILM
+SET annoprod = 2005
+WHERE idfilm = 277;
+UPDATE FILM
+SET annoprod = 1983
+WHERE idfilm = 280;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 287;
+UPDATE FILM
+SET annoprod = 2010
+WHERE idfilm = 288;
+UPDATE FILM
+SET annoprod = 1973
+WHERE idfilm = 292;
+UPDATE FILM
+SET annoprod = 1987
+WHERE idfilm = 298;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 306;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 309;
+UPDATE FILM
+SET annoprod = 1980
+WHERE idfilm = 310;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 316;
+UPDATE FILM
+SET annoprod = 1984
+WHERE idfilm = 317;
+UPDATE FILM
+SET annoprod = 1990
+WHERE idfilm = 319;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 320;
+UPDATE FILM
+SET annoprod = 1995
+WHERE idfilm = 325;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 327;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 328;
+UPDATE FILM
+SET annoprod = 1990
+WHERE idfilm = 330;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 332;
+UPDATE FILM
+SET annoprod = 1980
+WHERE idfilm = 338;
+UPDATE FILM
+SET annoprod = 1978
+WHERE idfilm = 342;
+UPDATE FILM
+SET annoprod = 1990
+WHERE idfilm = 346;
+UPDATE FILM
+SET annoprod = 1992
+WHERE idfilm = 348;
+UPDATE FILM
+SET annoprod = 1998
+WHERE idfilm = 350;
+UPDATE FILM
+SET annoprod = 2007
+WHERE idfilm = 354;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 356;
+UPDATE FILM
+SET annoprod = 1988
+WHERE idfilm = 359;
+UPDATE FILM
+SET annoprod = 2018
+WHERE idfilm = 364;
+UPDATE FILM
+SET annoprod = 2005
+WHERE idfilm = 366;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 371;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 372;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 374;
+UPDATE FILM
+SET annoprod = 1975
+WHERE idfilm = 375;
+UPDATE FILM
+SET annoprod = 2016
+WHERE idfilm = 378;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 379;
+UPDATE FILM
+SET annoprod = 2014
+WHERE idfilm = 381;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 384;
+UPDATE FILM
+SET annoprod = 1982
+WHERE idfilm = 390;
+UPDATE FILM
+SET annoprod = 2001
+WHERE idfilm = 392;
+UPDATE FILM
+SET annoprod = 1994
+WHERE idfilm = 394;
+UPDATE FILM
+SET annoprod = 1992
+WHERE idfilm = 396;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 401;
+UPDATE FILM
+SET annoprod = 1982
+WHERE idfilm = 408;
+UPDATE FILM
+SET annoprod = 1992
+WHERE idfilm = 415;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 416;
+UPDATE FILM
+SET annoprod = 1992
+WHERE idfilm = 418;
+UPDATE FILM
+SET annoprod = 1989
+WHERE idfilm = 420;
+UPDATE FILM
+SET annoprod = 1983
+WHERE idfilm = 421;
+UPDATE FILM
+SET annoprod = 1995
+WHERE idfilm = 424;
+UPDATE FILM
+SET annoprod = 2012
+WHERE idfilm = 427;
+UPDATE FILM
+SET annoprod = 2008
+WHERE idfilm = 428;
+UPDATE FILM
+SET annoprod = 1996
+WHERE idfilm = 429;
+UPDATE FILM
+SET annoprod = 2001
+WHERE idfilm = 431;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 433;
+UPDATE FILM
+SET annoprod = 2003
+WHERE idfilm = 435;
+UPDATE FILM
+SET annoprod = 2017
+WHERE idfilm = 437;
+UPDATE FILM
+SET annoprod = 2006
+WHERE idfilm = 444;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 448;
+UPDATE FILM
+SET annoprod = 1998
+WHERE idfilm = 450;
+UPDATE FILM
+SET annoprod = 2010
+WHERE idfilm = 451;
+UPDATE FILM
+SET annoprod = 1999
+WHERE idfilm = 455;
+UPDATE FILM
+SET annoprod = 1999
+WHERE idfilm = 457;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 458;
+UPDATE FILM
+SET annoprod = 1992
+WHERE idfilm = 465;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 466;
+UPDATE FILM
+SET annoprod = 2007
+WHERE idfilm = 467;
+UPDATE FILM
+SET annoprod = 1989
+WHERE idfilm = 469;
+UPDATE FILM
+SET annoprod = 1989
+WHERE idfilm = 470;
+UPDATE FILM
+SET annoprod = 1994
+WHERE idfilm = 472;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 474;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 476;
+UPDATE FILM
+SET annoprod = 1998
+WHERE idfilm = 484;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 485;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 488;
+UPDATE FILM
+SET annoprod = 1977
+WHERE idfilm = 489;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 494;
+UPDATE FILM
+SET annoprod = 2015
+WHERE idfilm = 495;
+UPDATE FILM
+SET annoprod = 1988
+WHERE idfilm = 496;
+UPDATE FILM
+SET annoprod = 2006
+WHERE idfilm = 500;
+UPDATE FILM
+SET annoprod = 2001
+WHERE idfilm = 506;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 510;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 512;
+UPDATE FILM
+SET annoprod = 1990
+WHERE idfilm = 514;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 525;
+UPDATE FILM
+SET annoprod = 1995
+WHERE idfilm = 527;
+UPDATE FILM
+SET annoprod = 2016
+WHERE idfilm = 530;
+UPDATE FILM
+SET annoprod = 1992
+WHERE idfilm = 534;
+UPDATE FILM
+SET annoprod = 2001
+WHERE idfilm = 539;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 541;
+UPDATE FILM
+SET annoprod = 2002
+WHERE idfilm = 542;
+UPDATE FILM
+SET annoprod = 1974
+WHERE idfilm = 543;
+UPDATE FILM
+SET annoprod = 1976
+WHERE idfilm = 544;
+UPDATE FILM
+SET annoprod = 2013
+WHERE idfilm = 545;
+UPDATE FILM
+SET annoprod = 1988
+WHERE idfilm = 549;
+UPDATE FILM
+SET annoprod = 1983
+WHERE idfilm = 551;
+UPDATE FILM
+SET annoprod = 2014
+WHERE idfilm = 552;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 553;
+UPDATE FILM
+SET annoprod = 2007
+WHERE idfilm = 561;
+UPDATE FILM
+SET annoprod = 1984
+WHERE idfilm = 569;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 570;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 577;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 581;
+UPDATE FILM
+SET annoprod = 2012
+WHERE idfilm = 588;
+UPDATE FILM
+SET annoprod = 1979
+WHERE idfilm = 590;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 593;
+UPDATE FILM
+SET annoprod = 1987
+WHERE idfilm = 596;
+UPDATE FILM
+SET annoprod = 1990
+WHERE idfilm = 599;
+UPDATE FILM
+SET annoprod = 1983
+WHERE idfilm = 600;
+UPDATE FILM
+SET annoprod = 1971
+WHERE idfilm = 602;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 605;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 608;
+UPDATE FILM
+SET annoprod = 2005
+WHERE idfilm = 613;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 615;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 619;
+UPDATE FILM
+SET annoprod = 2010
+WHERE idfilm = 635;
+UPDATE FILM
+SET annoprod = 2016
+WHERE idfilm = 638;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 643;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 653;
+UPDATE FILM
+SET annoprod = 1972
+WHERE idfilm = 655;
+UPDATE FILM
+SET annoprod = 1992
+WHERE idfilm = 656;
+UPDATE FILM
+SET annoprod = 1977
+WHERE idfilm = 657;
+UPDATE FILM
+SET annoprod = 1984
+WHERE idfilm = 658;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 670;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 674;
+UPDATE FILM
+SET annoprod = 1989
+WHERE idfilm = 676;
+UPDATE FILM
+SET annoprod = 1988
+WHERE idfilm = 677;
+UPDATE FILM
+SET annoprod = 2016
+WHERE idfilm = 680;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 682;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 684;
+UPDATE FILM
+SET annoprod = 2008
+WHERE idfilm = 685;
+UPDATE FILM
+SET annoprod = 1983
+WHERE idfilm = 690;
+UPDATE FILM
+SET annoprod = 1983
+WHERE idfilm = 691;
+UPDATE FILM
+SET annoprod = 1994
+WHERE idfilm = 692;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 699;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 701;
+UPDATE FILM
+SET annoprod = 1992
+WHERE idfilm = 708;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 712;
+UPDATE FILM
+SET annoprod = 1976
+WHERE idfilm = 718;
+UPDATE FILM
+SET annoprod = 1972
+WHERE idfilm = 721;
+UPDATE FILM
+SET annoprod = 1991
+WHERE idfilm = 722;
+UPDATE FILM
+SET annoprod = 2006
+WHERE idfilm = 727;
+UPDATE FILM
+SET annoprod = 2008
+WHERE idfilm = 731;
+UPDATE FILM
+SET annoprod = 1974
+WHERE idfilm = 732;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 735;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 736;
+UPDATE FILM
+SET annoprod = 1996
+WHERE idfilm = 740;
+UPDATE FILM
+SET annoprod = 1981
+WHERE idfilm = 742;
+UPDATE FILM
+SET annoprod = 1995
+WHERE idfilm = 747;
+UPDATE FILM
+SET annoprod = 2014
+WHERE idfilm = 749;
+UPDATE FILM
+SET annoprod = 1982
+WHERE idfilm = 750;
+UPDATE FILM
+SET annoprod = 2016
+WHERE idfilm = 754;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 756;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 764;
+UPDATE FILM
+SET annoprod = 2012
+WHERE idfilm = 766;
+UPDATE FILM
+SET annoprod = 1994
+WHERE idfilm = 770;
+UPDATE FILM
+SET annoprod = 2007
+WHERE idfilm = 779;
+UPDATE FILM
+SET annoprod = 2008
+WHERE idfilm = 782;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 784;
+UPDATE FILM
+SET annoprod = 1990
+WHERE idfilm = 793;
+UPDATE FILM
+SET annoprod = 1976
+WHERE idfilm = 797;
+UPDATE FILM
+SET annoprod = 2008
+WHERE idfilm = 805;
+UPDATE FILM
+SET annoprod = 2014
+WHERE idfilm = 806;
+UPDATE FILM
+SET annoprod = 2004
+WHERE idfilm = 811;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 814;
+UPDATE FILM
+SET annoprod = 2015
+WHERE idfilm = 815;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 817;
+UPDATE FILM
+SET annoprod = 2007
+WHERE idfilm = 818;
+UPDATE FILM
+SET annoprod = 1984
+WHERE idfilm = 827;
+UPDATE FILM
+SET annoprod = 1992
+WHERE idfilm = 828;
+UPDATE FILM
+SET annoprod = 2003
+WHERE idfilm = 833;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 835;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 838;
+UPDATE FILM
+SET annoprod = 2008
+WHERE idfilm = 841;
+UPDATE FILM
+SET annoprod = 2016
+WHERE idfilm = 845;
+UPDATE FILM
+SET annoprod = 2005
+WHERE idfilm = 847;
+UPDATE FILM
+SET annoprod = 1999
+WHERE idfilm = 849;
+UPDATE FILM
+SET annoprod = 1996
+WHERE idfilm = 850;
+UPDATE FILM
+SET annoprod = 1994
+WHERE idfilm = 851;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 858;
+UPDATE FILM
+SET annoprod = 1988
+WHERE idfilm = 859;
+UPDATE FILM
+SET annoprod = 1999
+WHERE idfilm = 861;
+UPDATE FILM
+SET annoprod = 1978
+WHERE idfilm = 862;
+UPDATE FILM
+SET annoprod = 1993
+WHERE idfilm = 863;
+UPDATE FILM
+SET annoprod = 1983
+WHERE idfilm = 864;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 866;
+UPDATE FILM
+SET annoprod = 2003
+WHERE idfilm = 874;
+UPDATE FILM
+SET annoprod = 1990
+WHERE idfilm = 878;
+UPDATE FILM
+SET annoprod = 2013
+WHERE idfilm = 879;
+UPDATE FILM
+SET annoprod = 2017
+WHERE idfilm = 880;
+UPDATE FILM
+SET annoprod = 2000
+WHERE idfilm = 884;
+UPDATE FILM
+SET annoprod = 1982
+WHERE idfilm = 885;
+UPDATE FILM
+SET annoprod = 1996
+WHERE idfilm = 886;
+UPDATE FILM
+SET annoprod = 2001
+WHERE idfilm = 892;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 901;
+UPDATE FILM
+SET annoprod = 2001
+WHERE idfilm = 905;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 907;
+UPDATE FILM
+SET annoprod = 1976
+WHERE idfilm = 909;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 911;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 915;
+UPDATE FILM
+SET annoprod = 1981
+WHERE idfilm = 916;
+UPDATE FILM
+SET annoprod = 1975
+WHERE idfilm = 920;
+UPDATE FILM
+SET annoprod = 2007
+WHERE idfilm = 926;
+UPDATE FILM
+SET annoprod = 1991
+WHERE idfilm = 928;
+UPDATE FILM
+SET annoprod = 2013
+WHERE idfilm = 944;
+UPDATE FILM
+SET annoprod = 1995
+WHERE idfilm = 945;
+UPDATE FILM
+SET annoprod = 2003
+WHERE idfilm = 946;
+UPDATE FILM
+SET annoprod = 1978
+WHERE idfilm = 957;
+UPDATE FILM
+SET annoprod = 1986
+WHERE idfilm = 960;
+UPDATE FILM
+SET annoprod = 1979
+WHERE idfilm = 963;
+UPDATE FILM
+SET annoprod = 2007
+WHERE idfilm = 968;
+UPDATE FILM
+SET annoprod = 2009
+WHERE idfilm = 972;
+UPDATE FILM
+SET annoprod = 1994
+WHERE idfilm = 975;
+UPDATE FILM
+SET annoprod = 2008
+WHERE idfilm = 976;
+UPDATE FILM
+SET annoprod = 2001
+WHERE idfilm = 978;
+UPDATE FILM
+SET annoprod = 1989
+WHERE idfilm = 980;
+UPDATE FILM
+SET annoprod = 1982
+WHERE idfilm = 989;
+UPDATE FILM
+SET annoprod = 1982
+WHERE idfilm = 996;
+UPDATE FILM
+SET annoprod = 1982
+WHERE idfilm = 1004;
+UPDATE FILM
+SET annoprod = 1975
+WHERE idfilm = 1007;
+UPDATE FILM
+SET annoprod = 1999
+WHERE idfilm = 1008;
+UPDATE FILM
+SET annoprod = 2011
+WHERE idfilm = 1011;
+UPDATE FILM
+SET annoprod = 2015
+WHERE idfilm = 1012;
+UPDATE FILM
+SET annoprod = 2003
+WHERE idfilm = 1015;
+UPDATE FILM
+SET annoprod = 1990
+WHERE idfilm = 1031;
+UPDATE FILM
+SET annoprod = 1985
+WHERE idfilm = 1033;
+UPDATE FILM
+SET annoprod = 1991
+WHERE idfilm = 1038;
+UPDATE FILM
+SET annoprod = 1998
+WHERE idfilm = 1044;
+UPDATE FILM
+SET annoprod = 1997
+WHERE idfilm = 1047;
+UPDATE FILM
+SET annoprod = 1980
+WHERE idfilm = 1048;
+UPDATE FILM
+SET annoprod = 1976
+WHERE idfilm = 1050;
+UPDATE FILM
+SET annoprod = 1981
+WHERE idfilm = 1058;
+UPDATE FILM
+SET annoprod = 1990
+WHERE idfilm = 1063;
+UPDATE FILM
+SET annoprod = 1994
+WHERE idfilm = 1071;

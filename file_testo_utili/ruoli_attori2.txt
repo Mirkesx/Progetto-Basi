@@ -1,0 +1,68 @@
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(25,1,"John Scottie Ferguson");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(26,2,"Miss Giddens");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(27,3,"T.E. Lawrence");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(44,4,"Michael");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(43,5,"Antonio Salieri");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(28,6,"Rick Deckard");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(29,7,"Alice Harford");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(30,8,"McManus");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(32,10,"Eddie Adams");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(10,11,"Alvy Singer");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(34,24,"San");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(35,13,"Andy Dufresne");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(36,14,"Lester Burnham");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(45,15,"Rose DeWitt Bukater");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(37,16,"Sean Maguire");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(38,17,"Ed");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(39,18,"Renton");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(40,20,"Elizabeth Darko");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(47,21,"Older Jamal");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(41,22,"Ripley");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(36,23,"Bobby Darin");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(31,9,"J.J. Gittes");
+
+INSERT INTO AttoreFilm(idattore,idfilm,ruolo)
+VALUES(46,19,"Alfred Borden");

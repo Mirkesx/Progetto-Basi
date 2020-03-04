@@ -1,0 +1,6 @@
+105	F. Murray	Abraham	USA
+104	Robert	De Niro	USA
+115	Kate	Winslet	Regno Unito
+119	Christian	Bale	Regno Unito
+121	Dev	Patel	Regno Unito
+123	David	Aston	Nuova Zelanda
